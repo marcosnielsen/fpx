@@ -20,18 +20,19 @@ Provide a CLI that allows Pascal developers to:
 
 ## 🚀 Key Features (planned)
 
-| Command       | Description |
-|---------------|-------------|
-| `fpx init`    | Initializes a new Pascal project with folder structure and basic files |
-| `fpx build`   | Compiles the project for the current operating system |
-| `fpx run`     | Runs the binary after build |
-| `fpx clean`   | Removes temporary files and compiled binaries |
-| `fpx deploy`  | Deploys the binary or generates a package for distribution |
-| `fpx test`    | Runs automated tests (coming soon) |
-| `fpx install` | Installs dependencies from external libraries (planned) |
-| `fpx config`  | Configures global or project-specific variables and options |
-| `fpx help`    | Shows general help or command-specific help |
+## 🚀 Key Features (planned)
 
+| Command       | Description                                                       | Status         |
+|---------------|-------------------------------------------------------------------|----------------|
+| `fpx init`    | Initializes a new Pascal project with folder structure and files  | 🧪 Not yet     |
+| `fpx build`   | Compiles the project for the current operating system             | 🧪 Not yet     |
+| `fpx run`     | Runs the binary after build                                       | 🧪 Not yet     |
+| `fpx clean`   | Removes temporary files and compiled binaries                     | 🧪 Not yet     |
+| `fpx deploy`  | Deploys the binary or generates a package for distribution        | 🧪 Not yet     |
+| `fpx test`    | Runs automated tests                                              | 🧪 Not yet     |
+| `fpx install` | Installs dependencies from external libraries                     | 🧪 Not yet     |
+| `fpx config`  | Configures global or project-specific variables and options       | 🧪 Not yet     |
+| `fpx help`    | Shows general help or command-specific help                       | 🧪 Not yet     |
 ---
 
 ## 💡 Highlights
