@@ -20,8 +20,6 @@ Provide a CLI that allows Pascal developers to:
 
 ## 🚀 Key Features (planned)
 
-## 🚀 Key Features (planned)
-
 | Command       | Description                                                       | Status         |
 |---------------|-------------------------------------------------------------------|----------------|
 | `fpx init`    | Initializes a new Pascal project with folder structure and files  | 🧪 Not yet     |
